@@ -1,2 +1,3 @@
 # Elixir-TicTacToe
-TicTacToe implemented in Elixir with OTP
+
+TicTacToe imlemented in Elixir with OTP
